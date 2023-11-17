@@ -1,0 +1,2 @@
+-- An unfinished mini project I've been working on -- 
+-- This code was originally written in w3schools website --
