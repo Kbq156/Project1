@@ -1,0 +1,40 @@
+/* External CSS Code */
+
+/* Title Text */
+#head-TEXT {
+    color: red;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+/* Sub-Title Text */
+#sub-TEXT {
+    color: red;
+    font-size: 15px;
+    text-align: right;
+    margin: 0px;
+    padding: 0px;
+    margin-right: 10%;
+}
+
+/* Start Button Text */
+#start-BUTTON {
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    text-align: center;
+    background-color: black;
+    border-style: hidden;
+}
+#start-BUTTON:visited {
+    color: white;
+    text-decoration: none;
+}
+#start-BUTTON:hover {
+    color: red;
+    background-color: rgba(255, 0, 0, 0.48);
+    font-size: 45px;
+    border-left: 5px solid red;
+}
